@@ -11,3 +11,10 @@ Submitted to : Dr. Mydhili K Nair (Faculty Coordinator)
 
 
 #List of programs
+
+1: Intro to Python and JavaScript(week1 and week2)
+    a) Python Basics - Datatypes, Functions, List Comprehension
+    b) Student Dictionary
+    c) Atomic Dictionary
+    d) HTML Basics and JavaScript - Forms and Function (Multiply and Addition)
+    More on Basics of Python and JavaScript
