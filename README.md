@@ -28,5 +28,51 @@ Submitted to : Dr. Mydhili K Nair (Faculty Coordinator)
 
 
 2: More on Python and JavaScript : Functions, Classes, Modules
+
    a) Frequency of words in text file using python
+   
    b) Temperature Convertion Function and storing all the conversions carried in program using python
+       
+3.JavaScript and JSON programs
+
+       a) Display Book name and Authors
+       
+       b)Basic Menu app
+       
+       c) JSON with different datatypes inside
+       
+       d) Looping through Array and accessing JSON
+       
+      e)  Dynamic Patient Details using JSON
+      
+       f) Colored Element using CSS and JSON
+       
+  4:  Programs implemented on both JavaScript and Python
+  
+       a) Calculate Age from DOB
+       
+       b) Minutes to Hour:Minute notation
+       
+       c) LetterSurround check
+       
+       d) Range of odd numbers
+       
+       e) Change Character as per conditions
+ 5:   Python program using Pandas and Seaborn on
+ 
+       a) Iris Dataset
+       
+       b) Titanic Dataset
+       
+       c) StudentPreformance Dataset
+       
+       d) BlackFriday Dataset
+       
+6:    Web Applications using Flask
+
+      a:   ATM app
+     
+      b:  Shopping Cart app
+      
+    Few More...
+
